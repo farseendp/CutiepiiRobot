@@ -12,8 +12,8 @@ The Support group can be reached out to at [Cutiepii Support](https://t.me/Cutie
 News channel as at [Cutiepii Updates](https://t.me/Cutiepii_Updates) 
 
 
-## Stats
-![Rajkumar's Github stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-27&show_icons=true&theme=tokyonight)
+## സ്ഥിതിവിവരക്കണക്കുകൾ
+! [രാജകുമാറിന്റെ ഗിത്തബ് സ്ഥിതിവിവരക്കണക്കുകൾ] (https://github-readme-stats.vercel.app/api?username=Rajkumar-27&show_icons=true&theme=tokyonight)
 
 ## How to setup/deploy.
 
@@ -33,7 +33,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/SaitamaRobot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farseendp/SaitamaRobot.git)
 
 </details>  
 <details>
