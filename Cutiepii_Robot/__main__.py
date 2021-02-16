@@ -55,9 +55,9 @@ Welcome user: {}, , I am cutest bot: Cutiepii!
 
 I am an Anime themed advance group management bot with a lot of Special Features.
 
-You can also make my sister. [Cutiepii Repo](https://github.com/Rajkumar-27/CutiepiiRobot)
+You can also make my sister. [Cutiepii Repo](https://github.com/farseendp/CutiepiiRobot)
 
-Use /help to know my abilities [^_^](https://telegra.ph/file/d31755c8e0245be16c4f5.png).
+Use /help to know my abilities [^_^](https://telegra.ph/file/d5f0328e5b43b4ea71c1b.jpg).
 """
 
 HELP_STRINGS = """
@@ -203,17 +203,17 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="Add Cutiepii to your group",
+                            text="Add Livia to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
                              text="Support Chat",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             url=f"https://t.me/joinchat/T5xUgH67JIQmxbUu{}"),
                          InlineKeyboardButton(
                              text="Updates Channel",
-                             url="https://t.me/Techno_Ocean")
+                             url="https://t.me/joinchat/Tu5T3FKSateUWbKW")
                   
                      ]]))
     else:
